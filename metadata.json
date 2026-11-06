@@ -1,0 +1,8 @@
+{
+  "name": "cortex",
+  "description": "Cortex · Psicologia em equilíbrio. Gestão clínica acolhedora, agenda inteligente, prontuários estilo caderno e controle de presenças.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
